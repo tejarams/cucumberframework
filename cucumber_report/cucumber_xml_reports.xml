@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.796">
+    <testcase classname="file of rough" name="Any test" time="0.606">
+        <system-out><![CDATA[Given Click on any..........................................................passed
+When Open any...............................................................passed
+Then Display anything.......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
